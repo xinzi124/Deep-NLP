@@ -7,7 +7,6 @@ import re
 import matplotlib.pyplot as plt
 from collections import Counter
 
-#导入打开要处理的文本追风筝的人中文版小说
 # 导入要处理的中文文本
 import os
 
