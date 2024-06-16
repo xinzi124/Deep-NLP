@@ -1,0 +1,50 @@
+----------------Result 1----------------
+Source sentence: 那女郎站起身来，不料段誉慌乱中兀是持着尸体，将死尸的脑袋向着她胸口撞去
+True target sentence: 那女郎在死尸脑袋上一推，段誉“啊”的一声，摔了出去，尸体正好压在他身上
+Generated target sentence: 原来只是她身子，身上下拜，总是不求人的欺负
+
+----------------Result 2----------------
+Source sentence: 至于石阶上和她胸口嘴边的鲜血，那是她预先备下的鹿血，原是要诱敌人上钩之用
+True target sentence: 不料李秋水十分机警，明明见她已然断气，仍是再在她胸口印上一掌
+Generated target sentence: ”徐老夫人道：“你的短箭见血封喉，剧毒无比
+
+----------------Result 3----------------
+Source sentence: 你那会种花的师妹躲哪里去了？我终究找得到她
+True target sentence: 第六句你回答不医，我去杀了你那个美貌师妹
+Generated target sentence: 你多半就，你觉好了呢
+
+----------------Result 4----------------
+Source sentence: 那是她出于爱我的一片痴心，手段虽然过份，总也不是歹意
+True target sentence: ”言念及此，便即宽心
+Generated target sentence: ”有一名帮众递过火把，司空玄拿在手里，走上两步
+
+----------------Result 5----------------
+Source sentence: 心想：“她父母回来，多半要挖开坟来看个究竟
+True target sentence: 须得在墓前竖上块牌子才是
+Generated target sentence: ”那知道姑娘，我真担心你好不可
+
+----------------Result 6----------------
+Source sentence: 但如果她说：‘不用忙，我还有话跟你说
+True target sentence: ’那么我便等着，瞧她有什么话吩咐
+Generated target sentence: ”当下说道：“这枚七宝指环，你是从哪里偷来的？”语音严峻，如审盗贼
+
+----------------Result 7----------------
+Source sentence: 阿碧在她耳边道：“阿朱阿姊，赶走了敌人之后，我来帮你收作
+True target sentence: ”阿朱捏了捏她的手示谢
+Generated target sentence: ”阿紫扁了嘴起来：“有奸细！有刺客！”还不知道二人乃是萧峰和阿紫
+
+----------------Result 8----------------
+Source sentence: ”萧峰跌足道：“唉，小孩子知道什么？我要问她一件事
+True target sentence: 这世上只有她一个人知道
+Generated target sentence: ”童姥断腿几，好进来，好生无礼
+
+----------------Result 9----------------
+Source sentence: 因此她是有力偷袭，无力还手
+True target sentence: 你如杀她，那便是改了你的规矩，你如改了规矩，那便是乌龟儿子王八蛋
+Generated target sentence: 可如此刻伴着那山羊胡子司空玄，实在无味得紧
+
+----------------Result 10----------------
+Source sentence: 段誉抢过去挡在她身前，叫道：“你躲在我後面
+True target sentence: ”便在这时，鸠摩智双手已扣住他□喉，用力收紧
+Generated target sentence: ”童姥断好，好，好生的一种生的恻隐
+

@@ -1,0 +1,40 @@
+----------------Result 1----------------
+Source sentence: 他双眼一瞬不瞬的瞧着阿朱，只要几把泥土一撒下去，那便是从此不能再见到她了
+True target sentence: 耳中隐隐约约的似乎听到她的话声，约定到雁门关外骑马打猎、牧牛放羊，要陪他一辈子
+Generated target sentence: 
+----------------Result 2----------------
+Source sentence: 这世上只有她一个人知道
+True target sentence: 若不是你来打岔，她已经说出来了
+Generated target sentence: 休下任你
+----------------Result 3----------------
+Source sentence: ”段正淳见她不明世事，更是难过，说道：“婉儿，日后我要好好待你，方能补我一些过失
+True target sentence: 你有什么心愿，说给我听，我一定尽力给你办到
+Generated target sentence: 
+----------------Result 4----------------
+Source sentence: 群豪见她眼眶中鲜血流出，掠过她雪白的脸庞，人人心下几怖，见她走来，便都让开了惊步
+True target sentence: 只见她笔直向前走去，渐渐走近山边的深谷
+Generated target sentence: 的到：，‘，，
+----------------Result 5----------------
+Source sentence: 她与无崖子是同门师姊弟，一脉相传，武功的子完全一般
+True target sentence: 虚竹依法修习，进展甚速
+Generated target sentence: 这是声，“以道，，，得，年，不，
+----------------Result 6----------------
+Source sentence: 嘿嘿，终于是她先我而死
+True target sentence: 她全身骨碎筋断，吐气散功，这样的死法，却是假装不来的
+Generated target sentence: ，她
+----------------Result 7----------------
+Source sentence: 那深情关切之意，仍然留在她的眉梢嘴角
+True target sentence: 萧峰大叫一声：“阿朱！”抱着她身子，向荒野中直奔
+Generated target sentence: 我疑面了
+----------------Result 8----------------
+Source sentence: 这两人相距尚远，他凝神听去，辨出来者是两个女子，心道：“多半是阿紫和她妈妈来了
+True target sentence: 嗯，我要问明段夫人，这幅字是不是段正淳写的
+Generated target sentence: 是这一，：，，！，，个在”不那，了，，不她，，增夫女，身一：”有在
+----------------Result 9----------------
+Source sentence: 段誉道：“她……她是木姑娘，是儿子结交的……结交的好朋友
+True target sentence: ”镇南王见了儿子神色，已知其意，见木婉清容颜秀丽，暗暗喝采：“誉儿眼光倒是不错
+Generated target sentence: 的
+----------------Result 10----------------
+Source sentence: 那人道：“很好，我等在这里，你去请她指点杀我的法门
+True target sentence: ”段誉道：“我不要杀你
+Generated target sentence: 一这，，，
